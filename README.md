@@ -10,7 +10,7 @@ I am learning .Net core.
 I am learning .NET core.
 
 
-##Skills and Experience
+## Skills and Experience:
 
 PHP/ HTML / CSS
 
