@@ -7,7 +7,7 @@ I am learning .Net core.
 
 
 #### Design and Development
-![Design and Development](https://www.freepik.com/free-vector/digital-circuit-lines-technology-banner-design_15245590.htm#query=banner%20design%20for%20computer%20science&position=7&from_view=search)
+![Design and Development](https://pbs.twimg.com/profile_banners/750175986650484737/1647943235/1080x360)
 
 I am Shiva Raj Karki, and I am learning .NET core.
 
@@ -18,5 +18,7 @@ Skills:  PHP/ HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivraj110)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s.raj_kshetri/)  
+
+
 
 
