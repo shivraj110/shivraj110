@@ -12,7 +12,7 @@ I am learning .NET core.
 
 ##Skills and Experience
 
-Skills:  PHP/ HTML / CSS
+PHP/ HTML / CSS
 
 - 🔭 I’m currently working on My own company. 
 
