@@ -12,9 +12,7 @@
 ✔ I’m looking to collaborate with any **.Net projects**<br>
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivraj110&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shiv Raj's Github Stats">
-</p>
+
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivraj110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shivraj110" />  
