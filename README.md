@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Shiva Raj Karki
 
-I am Shiva Raj Karki, and I am learning .Net core.
+I am learning .Net core.
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=shivraj110)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋, my name is Shiva Raj Karki
+
 #### Design and Development
 ![Design and Development](https://www.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_24600855.htm#query=banner%20design%20for%20computer%20science&position=12&from_view=search)
 
