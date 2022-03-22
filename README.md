@@ -1,5 +1,5 @@
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/750175986650484737/1647943235/1080x360)
+![Design and Development](https://github.com/shivraj110/shivraj110/blob/main/computer%20science%20banner.jpg)
 
 ### Hi there 👋, my name is Shiva Raj Karki
 
