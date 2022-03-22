@@ -10,6 +10,8 @@ I am learning .Net core.
 I am learning .NET core.
 
 
+##Skills and Experience
+
 Skills:  PHP/ HTML / CSS
 
 - 🔭 I’m currently working on My own company. 
