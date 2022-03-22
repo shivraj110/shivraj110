@@ -7,10 +7,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently trainer and freelancer for various companies<br>
-✔ I’m currently learning about **machine learning in ML.NET and Tensorflowjs**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source ML.NET and Tensorflowjs projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
+✔ I’m a fresher<br>
+✔ I’m currently learning about **.Net Core**🥰<br>
+✔ I’m looking to collaborate with any **.Net projects**<br>
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
 
 <p align='center'>
